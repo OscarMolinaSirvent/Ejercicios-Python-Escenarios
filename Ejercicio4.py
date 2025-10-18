@@ -10,4 +10,4 @@ def analize(cadena):
     
     return stats      
         
-print(analize('Hola soy Alarcon y soy de 2º\nhooooooolaaaa hola\n'))
+
